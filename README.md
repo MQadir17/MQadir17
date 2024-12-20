@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MQadir17
-- 👀 I’m interested in React, Native and Python.
+- 👀 I’m interested in React, Native, Node Js and Python.
 - 🌱 I’m currently working in Unlearn Innovate.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
